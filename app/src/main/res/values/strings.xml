@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login or Register</string>
+    <string name="buttonlogin">Войти</string>
+    <string name="buttonregister">Зарегистрироваться</string>
+    <string name="texttrue">Пароль и логин введены верно</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="warning">Слишком простой пароль</string>
+    <string name="logs">Пользователь уже существует</string>
+</resources>
